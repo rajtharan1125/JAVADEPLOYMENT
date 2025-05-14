@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.website.rajtharan.RajtharanApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.454 s -- in com.website.rajtharan.RajtharanApplicationTests
